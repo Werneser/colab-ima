@@ -1,0 +1,4 @@
+# Gitignore
+private/
+.vscode/
+__pycache__
